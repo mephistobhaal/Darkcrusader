@@ -1,0 +1,24 @@
+# adapted from https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+# put *your* name here
+name: Nicu Stefan Cristian
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+	The code taken from Dylan Bennett's PICO-8 Top-Down Adventure Game Tutorial.
+
+  	https://www.youtube.com/watch?v=J1wvvbVQ5zo&list=PLdLmU93eWisKpyk1WZywUSYAq5dkCPFIv
+    
+
+
+      
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: Dylan Bennett's code,
+    url: https://www.youtube.com/watch?v=J1wvvbVQ5zo&list=PLdLmU93eWisKpyk1WZywUSYAq5dkCPFIv
+    licence: -
+
+
